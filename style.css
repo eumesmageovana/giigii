@@ -1,0 +1,10 @@
+body{
+    background-color: white;
+      color: black;
+  }
+  body {
+    color: black;
+
+    header { 
+      border: solid 2px white;
+
